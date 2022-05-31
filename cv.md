@@ -20,7 +20,7 @@ I'm professional musician with over 10 years experience. Also i have experience 
 In 2021 I got advice from my friend to try code and i really liked it. I did not guess that is really so exciting and want grow in that direction. Front end area attracting me because you can see result of coding directly in browser. In future I would like also develop Mobile Apps.
 
 I like to learn new things and i believe that it will lead me in the world of IT.
--
+___
 
 ### Skills and Proficiency:
 
@@ -82,4 +82,4 @@ document.querySelector('.b-10').onclick = f10;
 * **English:** Intermediate
 
 
--
+* * *
