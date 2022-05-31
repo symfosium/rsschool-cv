@@ -1,7 +1,7 @@
 # Anton Morozov
 
 ### *Junior Front end developer*
--
+---
 
 ### Contact information:
 
@@ -20,7 +20,6 @@ I'm professional musician with over 10 years experience. Also i have experience 
 In 2021 I got advice from my friend to try code and i really liked it. I did not guess that is really so exciting and want grow in that direction. Front end area attracting me because you can see result of coding directly in browser. In future I would like also develop Mobile Apps.
 
 I like to learn new things and i believe that it will lead me in the world of IT.
-
 -
 
 ### Skills and Proficiency:
@@ -31,7 +30,7 @@ I like to learn new things and i believe that it will lead me in the world of IT
 * JavaScript Basics
 * React Basics
 
--
+---
 
 ### Code example:
 
@@ -62,7 +61,7 @@ document.querySelector('.b-10').onclick = f10;
 ```
 
 ### Experience
--
+---
 
 ### Education
 * Sibelius Academy, Master of Music, Helsinki, Finland (2012 - 2017)
@@ -76,11 +75,11 @@ document.querySelector('.b-10').onclick = f10;
 *  javascript.ru (in progress)
 *  RS School Course "JavaScript Stage 0/Stage 1" (in progress)
 
--
+---
 ### Languages:
 * **Russian:** Native
 * **Finnish:** Advanced
 * **English:** Intermediate
 
 
--
+---
