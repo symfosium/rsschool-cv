@@ -1,7 +1,7 @@
 # Anton Morozov
 
 ### *Junior Front end developer*
---
+-
 
 ### Contact information:
 
